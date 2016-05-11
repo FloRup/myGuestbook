@@ -1,0 +1,41 @@
+#myGuestbook
+{
+	
+}
+#ausgabe
+{
+	
+	
+}
+
+body
+{
+	background-color: #336699;
+	color: #000000;
+}
+
+#eintrag
+{
+	//background-color: #ffa500;
+}
+
+h2
+{
+	width: 50%;
+    margin: 0 auto;
+
+}
+#eingabe
+{
+	width: 50%;
+    margin: 0 auto;
+
+}
+
+#ausgabe 
+{
+	width: 50%;
+    margin: 0 auto;
+	background-color: #666666;
+	text-align: center;
+}
