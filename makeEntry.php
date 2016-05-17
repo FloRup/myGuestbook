@@ -1,11 +1,11 @@
 <?php
 
 
-	$dbHost="127.0.0.1";
-	$dbUsername="florup";
-	$dbPassword="176222891062";
-	$dbDatabase="florup"  ;
-	$dbTable="guestbook";
+	$dbHost="***";
+	$dbUsername="***";
+	$dbPassword="***";
+	$dbDatabase="***"  ;
+	$dbTable="***";
 
 	// Create connection
 	$con=mysqli_connect($dbHost,$dbUsername,$dbPassword,$dbDatabase);

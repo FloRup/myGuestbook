@@ -9,10 +9,10 @@ echo "retry: 1000\n"; // Wann es wiederversucht wird
 //die letzte zeile wird mit \n\n beendet
 
 	$dbHost="127.0.0.1";
-	$dbUsername="florup";
-	$dbPassword="176222891062";
-	$dbDatabase="florup"  ;
-	$dbTable="guestbook";
+	$dbUsername="******";
+	$dbPassword="***";
+	$dbDatabase="***"  ;
+	$dbTable="***";
 
 	// Create connection
 	$con=mysqli_connect($dbHost,$dbUsername,$dbPassword,$dbDatabase);
